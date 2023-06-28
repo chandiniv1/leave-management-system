@@ -1,0 +1,1 @@
+/home/vitwit/go/src/github.com/chandiniv1/rust/rust-pratice/target/debug/rust-pratice: /home/vitwit/go/src/github.com/chandiniv1/rust/rust-pratice/src/lib.rs /home/vitwit/go/src/github.com/chandiniv1/rust/rust-pratice/src/main.rs

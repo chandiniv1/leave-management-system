@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./rust-pratice/Cargo.toml",
+        "./rust-pratice/Cargo.toml",
+        "./rust-pratice/Cargo.toml",
+        "./rust-pratice/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
